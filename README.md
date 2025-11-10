@@ -55,8 +55,7 @@ python test.py --config/gzcd_test.json
 ### 测试权重及日志
 
 ```bash
-通过网盘分享的文件：checkpoint.zip
-链接: https://pan.baidu.com/s/1HKpQapDmyeq239v97zewjw?pwd=bi3t 提取码: bi3t
+通过网盘分享的文件：checkpoint.zip 链接: https://pan.baidu.com/s/1l297KTQHNqUQ7hAq0HXySA?pwd=hp2y 提取码: hp2y
 ```
 ### 参数说明
 
