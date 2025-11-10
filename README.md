@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ SAMFF
+#  SAMFF
 
 **Spatial Attention Multi-scale Feature Fusion for Change Detection**
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📋 目录
+##  目录
 
 - [环境配置](#-环境配置)
 - [训练及测试](#-训练及测试)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 环境配置
+##  环境配置
 
 ### Step 1: 创建环境
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎯 训练及测试
+##  训练及测试
 
 ### 训练命令
 
@@ -61,7 +61,7 @@ python test.py --config/gzcd_test.json
 
 ---
 
-## 📁 数据集格式
+##  数据集格式
 
 ### 目录结构
 
@@ -109,6 +109,6 @@ GZ-CD/
 
 <div align="center">
 
-**Made with ❤️ for Remote Sensing Change Detection**
+** Remote Sensing Change Detection**
 
 </div>
