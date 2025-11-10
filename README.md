@@ -52,7 +52,12 @@ python train.py --config/gzcd.json
 ```bash
 python test.py --config/gzcd_test.json
 ```
+### 测试权重及日志
 
+```bash
+通过网盘分享的文件：checkpoint.zip
+链接: https://pan.baidu.com/s/1UL4lPr8oFomd25SX2yAlPA?pwd=tf5m 提取码: tf5m
+```
 ### 参数说明
 
 | 参数 | 描述 |
