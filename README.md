@@ -56,7 +56,7 @@ python test.py --config/gzcd_test.json
 
 ```bash
 通过网盘分享的文件：checkpoint.zip
-链接: https://pan.baidu.com/s/1UL4lPr8oFomd25SX2yAlPA?pwd=tf5m 提取码: tf5m
+链接: https://pan.baidu.com/s/1HKpQapDmyeq239v97zewjw?pwd=bi3t 提取码: bi3t
 ```
 ### 参数说明
 
